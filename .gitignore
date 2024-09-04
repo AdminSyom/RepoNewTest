@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+*.sass
+.bin/
+.admin/
+.config/
+.idea
+New Test.iml
